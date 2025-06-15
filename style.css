@@ -45,6 +45,14 @@ nav a:hover {
     border-radius: 8px;
 }
 
+.blog {
+    background: white;
+    margin-bottom: 1.5em;
+    padding: 1em;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
 footer {
     text-align: center;
     padding: 1em 0;
