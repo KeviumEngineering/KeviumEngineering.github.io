@@ -37,7 +37,8 @@ nav a:hover {
     margin: auto;
 }
 
-.project {
+.project,
+.blog {
     background: white;
     margin-bottom: 1.5em;
     padding: 1em;
@@ -45,12 +46,16 @@ nav a:hover {
     border-radius: 8px;
 }
 
-.blog {
-    background: white;
-    margin-bottom: 1.5em;
-    padding: 1em;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
+.project a,
+.blog a {
+    color: black;
+    text-decoration: none;
+}
+
+.project a,
+.blog a {
+    color: black;
+    text-decoration: none;
 }
 
 footer {
