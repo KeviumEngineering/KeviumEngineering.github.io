@@ -47,6 +47,11 @@ nav a:hover {
     border-radius: 8px;
 }
 
+.line {
+    display: flex;
+    justify-content: space-between;
+}
+
 .project a,
 .blog a {
     color: black;
