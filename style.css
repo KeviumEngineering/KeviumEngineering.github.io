@@ -69,6 +69,10 @@ nav a:hover {
     text-decoration: none;
 }
 
+ul {
+    font-size: .9em;
+}
+
 footer {
     text-align: center;
     padding: 1em 0;
